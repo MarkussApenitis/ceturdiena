@@ -17,4 +17,4 @@ jā
 9. mainīgam aita piskir vērtību virkni kaste
 
 10. abu veido komentori python
-""" # 
+""" #
